@@ -1,3 +1,11 @@
+#Title: Notification Processor	
+#Tags:plyer,python
+
+#Can process notification of your choice 
+
+#plyer:built in module help you to find more information
+
+
 from plyer import notification
 
 def notifyme(title, message):
