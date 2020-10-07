@@ -10,7 +10,7 @@
 
 def validate_type_object_in_dict(data_dict):
     """
-    First get the key valuews
+    First get the key values
     Second use isinstace(value, type) to detect if is str, bool,int,float
     Note that bool is a subclass of int then validate this always first
     """
