@@ -72,6 +72,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a pull request
+7. Check the [contribution guidelines](https://github.com/Python-World/snippets/blob/master/CONTRIBUTING.md) for a detailed explanation.
 
 
 
