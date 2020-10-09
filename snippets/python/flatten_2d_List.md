@@ -1,6 +1,6 @@
 # Flatten 2D List
 
-*tags: * python
+*tags:* python
 
 ```
 # The function is expected to return a STRING.
