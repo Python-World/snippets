@@ -2,8 +2,7 @@
 
 *tags:* python, requests
 
-`requests`: The datetime module supplies classes for manipulating dates and times.
- The requests module allows you to send HTTP/1.1 requests and parse a response
+`requests`: The requests module allows you to send HTTP/1.1 requests and parse a response
 
 ### Snippet
 ```
