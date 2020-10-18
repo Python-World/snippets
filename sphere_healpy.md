@@ -1,3 +1,10 @@
+# Plot a sphere and pixel centers on it using Healpix package
+
+*tags:* python, healpix, healpy
+
+### Snippet 
+```
+
 from mayavi import mlab
 import numpy as np
 import healpy as hp
@@ -25,3 +32,4 @@ mlab.points3d(xx, yy, zz, scale_factor=0.2)
 
 
 mlab.show()
+'''
