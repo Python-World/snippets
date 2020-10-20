@@ -8,7 +8,6 @@ items are inserted is remembered by OrderedDict.
 
 _tags_: OrderedDict
 
-
 # Snippet
 ```
 # A Python program to demonstrate working of OrderedDict 
